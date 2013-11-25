@@ -1,3 +1,16 @@
+# = matriz_dispersa.rb
+#
+# Autor:: Jose Luis Gonzalez Hernandez y Karen Mercedes Curro Diaz
+# 
+# == Clase Hija Matriz Dispersa
+#
+# 
+# Deficicion de la clase _MatrizDispersa_ compuesta por
+#
+# * metodo initialize
+# * metodo [](fila, columna)
+#
+
 class MatrizDispersa < Matriz
   attr_reader :filas, :columnas, :matriz
   
