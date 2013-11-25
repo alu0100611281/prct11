@@ -1,3 +1,21 @@
+# = matriz_densa.rb
+#
+# Autor:: Jose Luis Gonzalez Hernandez y Karen Mercedes Curro Diaz
+# 
+# == Clase Hija Matriz Densa
+#
+# Creamos la clase matriz densa para que luego crear las clases:
+#   - Densas
+#   - Dispersas
+# 
+# Deficicion de la clase _Matriz_ compuesta por
+#
+# * metodo initialize
+# * metodo ==(other)
+# * metodo [](fila, columna)
+# * metodo []=(fila, columna, valor)
+#
+#
 
 class MatrizDensa < Matriz
   attr_reader :filas, :columnas, :matriz
