@@ -91,13 +91,14 @@ class Matriz
 
     valor = Array.new
     
-    for i in 0...@filas
+    @filas.times do |i|
+    #for i in 0...@filas
       valor[i] = Array.new
-      
-      for j in 0...other.columnas
+      @columnas.times do |j|
+      #for j in 0...other.columnas
         valor[i][j] = 0
-        
-        for k in 0...@columnas
+        @columnas.times do |k|
+        #for k in 0...@columnas
           valor[i][j] += (self[i,k] * other[k,j])
         end
       end
