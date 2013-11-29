@@ -27,7 +27,7 @@
 require "./lib/mygem/matriz.rb"
 
 
-module Prct09
+module Mygem
 
   class Matriz_Densa < Matriz
 
