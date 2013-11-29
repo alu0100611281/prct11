@@ -6,6 +6,6 @@ require "./lib/mygem/matriz_dispersa.rb"
 require "./lib/mygem/fracciones.rb"
 require "./lib/mygem/gcd.rb"
 
-module Prct09
+module Mygem
   # Your code goes here..
 end
