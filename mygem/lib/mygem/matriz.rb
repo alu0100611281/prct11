@@ -11,13 +11,7 @@
 # Deficicion de la clase _Matriz_ compuesta por
 #
 # * metodo initialize
-# * metodo Matriz.tipo
-# * metodo -(other)
-# * metodo *(other)
-# * metodo +(other)
-# * metodo to_s
-# * metodo max
-# * metodo min
+#
 #
 
 
