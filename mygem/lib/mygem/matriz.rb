@@ -17,7 +17,7 @@
 
 require './lib/mygem/fracciones.rb'
 
-module Prct09
+module Mygem
   class Matriz
     attr_reader :filas, :columnas
     attr_accessor :pos
