@@ -1,4 +1,4 @@
-require "./lib/prct09.rb"
+require "./lib/Matriz.rb"
 
 describe Mygem::Matriz_Densa do
 
