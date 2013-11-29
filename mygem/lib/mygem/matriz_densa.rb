@@ -11,7 +11,6 @@
 # Deficicion de la clase _Matriz_ compuesta por
 #
 # * metodo initialize
-# * metodo ==(other)
 # * metodo get
 # * metodo set
 # * metodo num_nulos
