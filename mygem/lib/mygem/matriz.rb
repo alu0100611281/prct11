@@ -21,7 +21,7 @@
 #
 
 
-require './lib/mygem/racional.rb'
+require './lib/mygem/fracciones.rb'
 
 module Prct09
   class Matriz
