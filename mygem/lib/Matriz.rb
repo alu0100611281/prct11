@@ -7,5 +7,5 @@ require "./lib/prct09/racional.rb"
 require "./lib/prct09/gcd.rb"
 
 module Prct09
-  # Your code goes here...
+  # Your code goes here..
 end
