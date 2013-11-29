@@ -1,10 +1,11 @@
-def gcd(u, v)
-  u, v = u.abs, v.abs
-  while v != 0 
-    u, v = v, u % v
+module Prct09
+  def self.gcd(a, b)
+    a, b = a.abs, b.abs
+    while b != 0
+      a, b = b, a % b
+    end
+    a
   end
-  u
 end
 
-#puts gcd(6,3)
 
