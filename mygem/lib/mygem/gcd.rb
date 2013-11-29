@@ -1,4 +1,4 @@
-module Prct09
+module Mygem
   def self.gcd(a, b)
     a, b = a.abs, b.abs
     while b != 0
