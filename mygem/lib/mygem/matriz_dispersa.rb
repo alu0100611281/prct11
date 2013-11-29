@@ -22,7 +22,7 @@
 require "./lib/mygem/matriz.rb"
 require "./lib/mygem/matriz_densa.rb"
 
-module Prct09
+module Mygem
   class Matriz_Dispersa < Matriz
 
     def new_initialize
